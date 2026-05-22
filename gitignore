@@ -1,0 +1,16 @@
+# Compiled binaries
+traffic_quiz
+traffic_quiz.exe
+*.o
+*.out
+*.obj
+*.exe
+
+# IDE / editor folders
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
